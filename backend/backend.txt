@@ -1,0 +1,9 @@
+  node backend/server.js
+
+
+install nodmon to every time restart - npm i nodemon -D 
+
+Do this run:- npm run dev
+
+seeds - products.js  // data put into Database successfully
+ --> node backend/seeds/products.js   
