@@ -1,4 +1,7 @@
 Highlights:
+<img src="./screenshot/1.png"/>
+<img src="./screenshot/2.png"/>
+
 
 - 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
 - 🚀 Rate Limiting & Bot Detection
@@ -35,3 +38,19 @@ https://unsplash.com/
 cd frontend
 npm run dev
 ```
+
+
+
+<img src="./screenshot/4.png"/>
+<img src="./screenshot/5.png"/>
+<img src="./screenshot/6.png"/>
+
+
+# more into 
+
+<img src="./screenshot/7.png"/>
+<img src="./screenshot/8.png"/>
+<img src="./screenshot/9.png"/>
+
+<img src="./screenshot/10.png"/>
+<img src="./screenshot/12.png"/>
