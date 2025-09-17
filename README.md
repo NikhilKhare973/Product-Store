@@ -1,5 +1,5 @@
-#Product Store
-##Highlights:
+# Product Store
+## Highlights:
 <img src="./screenshot/1.png"/>
 <img src="./screenshot/2.png"/>
 
