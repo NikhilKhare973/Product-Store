@@ -10,6 +10,8 @@
 - 🐞 Error handling both on the server and client
 - ⭐ Deployment for FREE!
 - ⏳ And much more!
+- my best project is Product store in that I using HTML, css, javascript , tailwindcss, react.js, node.js .express.js, Postgersql, Tech stack: PERN + TailwindCSS + Daisy UI,  also use PostgreSQL-Neon database and give CRUD feature to user
+- TailwindCSS + Daisy UI, JavaScript, CSS, PERN, Reactjs, axios, REST APIs, postgerSQL-neon
 
 ### Setup .env file
 
